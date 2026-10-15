@@ -11,7 +11,7 @@ This repository contains my C++ lab programs related to Compiler Design and Auto
 - Operator Precedence Parser
 
 ## Language
-- C++ and Python
+- C++ 
 
 ## Purpose
 Created for learning, practicing, and maintaining my Compiler Design lab codes.
